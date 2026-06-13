@@ -1,0 +1,63 @@
+# Core Framework
+fastapi==0.109.0
+uvicorn==0.27.0
+streamlit==1.31.0
+
+# Database
+sqlalchemy==2.0.25
+pymysql==1.1.0
+alembic==1.13.1
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Machine Learning
+scikit-learn==1.4.0
+xgboost==2.0.3
+tensorflow==2.15.0
+keras==2.15.0
+torch==2.1.2
+
+# Reinforcement Learning
+stable-baselines3==2.2.1
+gymnasium==0.29.1
+
+# Market Data
+yfinance==0.2.35
+nsepy==0.8
+
+# AI Agents
+langchain==0.1.4
+langchain-community==0.0.16
+langchain-openai==0.0.5
+openai==1.10.0
+
+# PDF Generation
+reportlab==4.0.9
+fpdf==1.7.2
+
+# Date/Time
+python-dateutil==2.8.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Validation
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# HTTP Requests
+requests==2.31.0
+httpx==0.26.0
+
+# Background Tasks
+apscheduler==3.10.4
+
+# Utilities
+python-multipart==0.0.6
