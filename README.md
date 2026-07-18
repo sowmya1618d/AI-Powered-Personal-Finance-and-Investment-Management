@@ -184,4 +184,5 @@ streamlit run app.py
 MIT License
 
 ## 👨‍💻 Author
+D Manasa Sowmya
 Built as a professional fintech solution for personal finance management
